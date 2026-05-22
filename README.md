@@ -20,7 +20,6 @@ An AI-powered product recommendation web app built using React, Vite, and Groq A
 - gaming laptop
 - premium phone
 - phone under $500
-- wireless headphones
 - tablet for students
 
 ## Deployment
